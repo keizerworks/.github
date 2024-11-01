@@ -22,9 +22,9 @@ body:
           required: false
     - type: dropdown
       attributes:
-      label: Are you willing to submit PR?
-      options:
-        - 'Yes'
-        - 'No'
+        label: Are you willing to submit PR?
+        options:
+          - 'Yes'
+          - 'No'
       validations: 
         required: true
