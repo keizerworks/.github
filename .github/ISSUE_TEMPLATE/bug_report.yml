@@ -41,8 +41,8 @@ body:
           - Browser:
           - version:
         render: markdown
-    validations: 
-      required: false
+      validations: 
+        required: false
     - type: textarea
       id: anything_else
       attributes:
