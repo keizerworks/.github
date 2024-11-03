@@ -50,6 +50,20 @@ We understand the challenges of building a startup — we've been there ourselve
 
 **3. Launch and Scale**: With your product live and a growth strategy in place, we help you scale by finding the right funding and growth opportunities.
 
+## We Build for the Community
+
+At Keizer Works, we believe in giving back to the developer community. We actively contribute to the open source ecosystem by developing and maintaining self-hosted solutions that empower other developers and businesses.
+
+### Our Open Source Projects:
+
+**[Invoicen](https://github.com/keizerworks/invoicen)**  
+A simple invoice generator for freelancers and small businesses. It is a self-hosted web application that can be used to generate invoices and download PDFs. Perfect for businesses looking for a straightforward, self-controlled invoicing solution.
+
+**[Keizer-Auth](https://github.com/keizerworks/keizer-auth)**  
+A robust authentication system designed for modern applications, completely self-hosted and customizable. It gives developers full control over their authentication infrastructure.
+
+We're committed to building high-quality, self-hosted OSS projects that provide alternatives to SaaS solutions, giving developers and businesses more control over their infrastructure and data.
+
 ## Ready to Start?
 
 We're here to help you **build**, **grow**, and **connect**. Let's turn your idea into the next big success story.
