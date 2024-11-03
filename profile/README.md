@@ -12,6 +12,8 @@ From ideation to a market-ready product, we offer full-stack development service
 * Custom MVPs for fast market entry
 * Front-end and back-end development
 * Responsive web and mobile designs
+* Unity game development for mobile & web platforms
+* 2D/3D game design and development
 * Admin dashboards, data visualization, and more
 * Scalable infrastructure for future growth
 
@@ -52,5 +54,5 @@ We understand the challenges of building a startup — we've been there ourselve
 
 We're here to help you **build**, **grow**, and **connect**. Let's turn your idea into the next big success story.
 
-Contact us at: info@keizerworks.com  
+Contact us at: keizerworks@gmail.com  
 Visit our website: www.keizerworks.com
