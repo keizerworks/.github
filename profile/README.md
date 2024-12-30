@@ -56,3 +56,7 @@ We're here to help you **build**, **grow**, and **connect**. Let's turn your ide
 
 Contact us at: [biz@keizerworks.com](mailto:biz@keizerworks.com)
 Visit our website: [keizerworks.com](https://keizerworks.com)
+
+## Discord
+You can join our discord server [here](https://discord.com/invite/UGyDwmQs) to ask for any dev help related to our products
+
