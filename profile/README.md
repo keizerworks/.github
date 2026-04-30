@@ -1,26 +1,41 @@
 # Keizerworks
 
-**Integrated startup operations for early-stage founders.**
+**Investing in future tech.**
 
-We bring everything a startup needs into one place—legal, documentation, product, security, marketing, residency support, and investor access. One trusted partner instead of six different vendors.
+We're a studio. We build with founders working on AI, Web3, simulation engines, and the kind of complex software most teams say no to.
+
+10+ companies. $24M+ in combined valuation. Bootstrapped.
 
 ---
 
-## The Sequence
+## What we do
 
-We've mapped the exact order startups need to follow:
+- **Build** — Web, desktop, iOS, Android, AI agents, simulation engines.
+- **Design** — Brand, product, UX. Nothing generic.
+- **Back** — Equity (5–7%) or fixed price. Depends on the bet.
 
-```
-Legal → Documentation → Product → Security → Marketing → Residency → VC
-```
+---
 
-Each step builds on the previous one. Skip a step, and you'll come back to it—usually at a higher cost.
+## How we work
+
+We come in early.
+We ship fast.
+We hold equity when it matters.
+
+We don't take every project. We pick the ones we'd want to build ourselves.
 
 ---
 
 ## Connect
 
-[Website](https://keizerworks.com) · [Twitter](https://twitter.com/keizerHQ) · [Email](mailto:biz@keizerworks.com)
-## Discord
-You can join our discord server [here](https://discord.com/invite/UGyDwmQs) to ask for any dev help related to our products
+[Website](https://keizerworks.com) · [Twitter](https://x.com/keizerHQ) · [Email](mailto:rahul.sain@keizerworks.com)
 
+Building something future-shaped? [Let's talk.](mailto:rahul.sain@keizerworks.com)
+
+---
+
+## Discord
+
+Join the Keizerworks dev community → [discord link]
+
+Run by [Rahul Sain](https://x.com/rahulsainlll).
