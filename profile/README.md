@@ -36,6 +36,6 @@ Building something future-shaped? [Let's talk.](mailto:rahul.sain@keizerworks.co
 
 ## Discord
 
-Join the Keizerworks dev community → [discord link]
+Join the Keizerworks dev community → [discord link](https://discord.gg/SZQTcayW)
 
 Run by [Rahul Sain](https://x.com/rahulsainlll).
