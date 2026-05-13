@@ -20,7 +20,6 @@ We're a studio. We build with founders working on AI, Web3, simulation engines, 
 
 We come in early.
 We ship fast.
-We hold equity when it matters.
 
 We don't take every project. We pick the ones we'd want to build ourselves.
 
